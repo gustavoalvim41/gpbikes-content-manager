@@ -1,5 +1,5 @@
 # GP Bikes (CM)
-A custom launcher and content manager for GP Bikes.
+A custom launcher and content manager for GP Bikes, designed for the community.
 
 ## Features
 - Mod manager: drag and drop mods directly into the interface to install.
